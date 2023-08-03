@@ -1,0 +1,79 @@
+.create-button{
+    border: none;
+    height: 40px;
+    width: 180px;
+    background-color: #48c770;
+    border: none;
+    height: 40px;
+    width: 180px;
+    background-color: #48c770;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.post-text{
+
+}
+.create-new-post{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.posts-list-table{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.create-manage-post{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.devide-blocks{
+    width: 97%;
+    border-bottom: 2px solid #e5d5d5;
+    margin: 20px;
+    margin-right: 20px;
+}
+.prev-button{
+    border: none;
+    height: 40px;
+    width: 150px;
+    background-color: #48c770;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.next-button{
+    border: none;
+    height: 40px;
+    width: 150px;
+    background-color: #48c770;
+    border: none;
+    height: 40px;
+    width: 180px;
+    background-color: #48c770;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pagination-button{
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+/* 
+.ant-table-row{
+    cursor: pointer;
+} */

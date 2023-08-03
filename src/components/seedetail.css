@@ -1,0 +1,17 @@
+.detail-main-container{
+    margin: 40px;
+}
+
+.description-block{
+    width: 330px;
+}
+
+.devide-blocks-detail{
+    width: 100%;
+    border-bottom: 2px solid #e5d5d5;
+    /* margin: 20px; */
+    margin-right: 20px;
+}
+.title-heading{
+    color: #48c770;
+}
